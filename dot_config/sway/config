@@ -1,8 +1,3 @@
-# Default config for sway
-#
-# Copy this to ~/.config/sway/config and edit it to your liking.
-#
-# Read `man 5 sway` for a complete reference.
 
 ### Variables
 #
@@ -239,7 +234,7 @@ include /etc/sway/config.d/*
 #
 # WallPaper
 #
-output "*" background /home/nemo/Submarine_WallPaper.png fill
+output "*" background ~/dotfiles/dot_config/sway/Submarine_WallPaper.png fill
 
 default_border pixel 2
 
