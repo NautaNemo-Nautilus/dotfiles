@@ -12,6 +12,7 @@ setopt auto_param_keys
 
 setopt correct
 
+setopt print_eight_bit
 
 
 prompt walters
