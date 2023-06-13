@@ -12,6 +12,7 @@ set display=lastline
 set showcmd
 set background=dark
 set ruler
+autocmd ColorScheme * highlight lineNr ctermfg=Blue
 colorscheme iceberg
 
 "## indent
