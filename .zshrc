@@ -17,4 +17,10 @@ setopt print_eight_bit
 
 prompt walters
 
+#setting path
+switch(uname)
+	case Darwin
+		#mactex
+		export PATH=/usr/local/texlive/2023/bin/universal-darwin:$PATH
 
+end
