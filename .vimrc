@@ -12,6 +12,7 @@ set display=lastline
 set showcmd
 set background=dark
 set ruler
+colorscheme iceberg
 
 "## indent
 set autoindent
