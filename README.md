@@ -41,8 +41,7 @@ git clone https://github.com/mzyy94/RictyDiminished-for-Powerline
 ```
 ## The ones we use
 ### font
-*
-[RictyDiminished-for-Powerline](https://github.com/mzyy94/RictyDiminished-for-Powerline)
+* [RictyDiminished-for-Powerline](https://github.com/mzyy94/RictyDiminished-for-Powerline)
 
 ### vim
 * dotfiles/.vim/colors/iceberg.vim <-- by cocopon  
