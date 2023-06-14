@@ -16,7 +16,7 @@ Following list isn't made me and is MIT license.
 ### vim
 * dotfiles/.vim/colors/iceberg.vim <-- by cocopon  
 ![iceberg.vim](https://github.com/cocopon/iceberg.vim)
-
+<p><a href="https://github.com/cocopon/iceberg.vim" target='_blank'>iceberg.vim</a></p>
 
 ### fish
 * dotfiles/.config/fish/functions/fisher <-- by jorgebucaran  
@@ -24,6 +24,6 @@ Following list isn't made me and is MIT license.
 
 
 * dotfiles/.config/fish/functions/bobthefish_display_colors.fish ... <-- by bobthecow   
-[theme-bobthefish](https://github.com/oh-my-fish/theme-bobthefish)
+![theme-bobthefish](https://github.com/oh-my-fish/theme-bobthefish)
 
 
