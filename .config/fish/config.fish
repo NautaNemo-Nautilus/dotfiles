@@ -14,7 +14,7 @@ set -gx EDITOR vim
 
 
 #theme
-#set -g theme_color_scheme terminal-dark
+set -g theme_color_scheme Tommorow Night Bright
 set -g theme_display_git_default_branch yes
 
 
