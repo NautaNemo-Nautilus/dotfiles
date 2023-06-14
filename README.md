@@ -9,7 +9,7 @@
 * sway
 * allacritty
 
-# Install
+## Install
 1. Download
 ```
 git clone https://github.com/NautaNemo-Nautilus/dotfiles.git
@@ -20,7 +20,8 @@ cd dotfiles
 ./install.sh
 ```
 
-# Font install
+## Font install
+### Mac
 ```Mac
 brew tap sanemat/font
 brew install ricty --with-powerline
@@ -32,7 +33,8 @@ or
 git clone https://github.com/mzyy94/RictyDiminished-for-Powerline
 cp RictyDiminished-for-Powerline/powerline-fontpatched ~/Library/Fonts
 ```
-
+  
+### Linux
 ```linux
 cd /.local/share/fonts
 git clone https://github.com/mzyy94/RictyDiminished-for-Powerline
