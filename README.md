@@ -9,6 +9,16 @@
 * sway
 * allacritty
 
+# Install
+1. Download
+'''
+git clone https://github.com/NautaNemo-Nautilus/dotfiles.git
+cd dotfiles
+'''
+2. Install
+'''
+./install.sh
+'''
 
 
 ## Using "made by others"
