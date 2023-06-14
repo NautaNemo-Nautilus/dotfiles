@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/zsh install.sh
 
 DOT_DIR="$HOME/dotfiles"
 
@@ -14,8 +14,7 @@ if [ ! -d ${DOT_DIR} ]; then
         exit 1
     fi
     cd ${DOT_DIR}
-    for f in *
-    do
+    for f in .??*; do
         [[ "$f" == ".git" ]] && continue
         [[ "$f" == ".gitignore" ]] && continue
         [[ "$f" == ".DS_Store" ]] && continue
@@ -23,7 +22,6 @@ if [ ! -d ${DOT_DIR} ]; then
         [[ "$f" == "install.sh" ]] && continue
 
         ln -snf $DOT_DIR/"$f" $HOME/".$f"
-        echo "Installed .$f"
     done
 fi
 
