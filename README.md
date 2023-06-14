@@ -21,8 +21,7 @@ cd dotfiles
 ```
 
 
-## Using "made by others"
-Following list isn't made me and is MIT license.
+## The ones we use
 ### vim
 * dotfiles/.vim/colors/iceberg.vim <-- by cocopon  
 [iceberg.vim](https://github.com/cocopon/iceberg.vim)
