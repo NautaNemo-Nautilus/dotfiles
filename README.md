@@ -22,20 +22,13 @@ cd dotfiles
 
 ## Font install
 ### Mac
-```Mac
-brew tap sanemat/font
-brew install ricty --with-powerline
-cp -f /opt/home/opt/ricty/share/fonts/Ricty*.ttf ~/Library/Fonts/
-fc-cache -vf
-```
-or
-```
+```OS X
 git clone https://github.com/mzyy94/RictyDiminished-for-Powerline
 cp RictyDiminished-for-Powerline/powerline-fontpatched ~/Library/Fonts
 ```
   
 ### Linux
-```linux
+```Linux
 cd /.local/share/fonts
 git clone https://github.com/mzyy94/RictyDiminished-for-Powerline
 ```
