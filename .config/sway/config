@@ -234,7 +234,7 @@ include /etc/sway/config.d/*
 #
 # WallPaper
 #
-output "*" background ~/dotfiles/dot_config/sway/Submarine_WallPaper.png fill
+output "*" background ~/dotfiles/.config/sway/Submarine_WallPaper.png fill
 
 default_border pixel 2
 
