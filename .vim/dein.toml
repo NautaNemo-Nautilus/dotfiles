@@ -1,0 +1,9 @@
+[[plugins]]
+repo = 'ervandew/supertab'
+[[plugins]]
+repo = 'preservim/vim-indent-guides'
+[[plugins]]
+repo = 'ctrlpvim/ctrlp.vim'
+[[plugins]]
+repo = 'neomake/neomake'
+
