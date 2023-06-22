@@ -39,6 +39,17 @@ git clone https://github.com/mzyy94/RictyDiminished-for-Powerline
 ### vim
 * dotfiles/.vim/colors/iceberg.vim <-- by cocopon  
 [iceberg.vim](https://github.com/cocopon/iceberg.vim)
+* dotfiles/.vimrc 
+* dotfiles/.vim/dein.toml <-- by Shougo
+[dein.vim](https://github.com/Shougo/dein.vim#dein-has-an-user-interface-like-vim-plug)
+
+* Plugins(dein.toml)
+[supertab](https://github.com/ervandew/supertab)
+[vijm-indent-guides](https://github.com/preservim/vim-indent-guides)
+[ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim)
+[neomake](https://github.com/neomake/neomake)
+
+
 
 ### fish
 * dotfiles/.config/fish/functions/fisher <-- by jorgebucaran  
