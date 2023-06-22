@@ -43,7 +43,7 @@ fc-cache -vf
 ## The ones we use
 ### font
 * [RictyDiminished-for-Powerline](https://github.com/mzyy94/RictyDiminished-for-Powerline)
-
+* [HackGen-NF](https://github.com/yuru7/HackGen)
 ### vim
 * dotfiles/.vim/colors/iceberg.vim <-- by cocopon  
 [iceberg.vim](https://github.com/cocopon/iceberg.vim)  
@@ -55,9 +55,9 @@ fc-cache -vf
 [vijm-indent-guides](https://github.com/preservim/vim-indent-guides)  
 [ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim)  
 [neomake](https://github.com/neomake/neomake)  
-[vim-airline](https://github.com/vim-airline/vim-airline)
-[vim-airline-themes](https://github.com/vim-airline/vim-airline-themes)
-[vim-devicons](https://github.com/ryanoasis/vim-devicons)
+[vim-airline](https://github.com/vim-airline/vim-airline)  
+[vim-airline-themes](https://github.com/vim-airline/vim-airline-themes)  
+[vim-devicons](https://github.com/ryanoasis/vim-devicons)  
 
 
 ### fish
