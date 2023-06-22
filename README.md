@@ -20,19 +20,6 @@ cd dotfiles
 ./install.sh
 ```
 
-## Ricty Font install
-### Mac
-```OS X
-git clone https://github.com/mzyy94/RictyDiminished-for-Powerline
-cp RictyDiminished-for-Powerline/powerline-fontpatched ~/Library/Fonts
-```
-  
-### Linux
-```Linux
-cd ~/.local/share/fonts
-git clone https://github.com/mzyy94/RictyDiminished-for-Powerline
-```
-
 ## HackGen NF install
 Download [HackGen Release](https://github.com/yuru7/HackGen/releases)
 
@@ -51,6 +38,8 @@ cp HackGen_NF_v2.9.0 ~/.local/share/fonts
 mv HackGen_NF_v2.9.0 HackGen_NF
 fc-cache -vf
 ```
+
+
 ## The ones we use
 ### font
 * [RictyDiminished-for-Powerline](https://github.com/mzyy94/RictyDiminished-for-Powerline)
@@ -66,9 +55,9 @@ fc-cache -vf
 [vijm-indent-guides](https://github.com/preservim/vim-indent-guides)  
 [ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim)  
 [neomake](https://github.com/neomake/neomake)  
-[vim-airline]
-[vim-airline-themes]
-[]
+[vim-airline](https://github.com/vim-airline/vim-airline)
+[vim-airline-themes](https://github.com/vim-airline/vim-airline-themes)
+[vim-devicons](https://github.com/ryanoasis/vim-devicons)
 
 
 ### fish
