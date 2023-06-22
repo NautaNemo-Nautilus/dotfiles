@@ -37,16 +37,18 @@ git clone https://github.com/mzyy94/RictyDiminished-for-Powerline
 Download [HackGen Release](https://github.com/yuru7/HackGen/releases)
 
 ```OS X
-(unzip HackGen_NF_v-.-.-.zip)
-cp HackGen_NF_v-.-.- ~/Library/Fonts
-mv HackGen_NF_v-.-.- HackGen_NF
+curl -OL https://github.com/yuru7/HackGen/releases/download/v2.9.0/HackGen_NF_v2.9.0.zip
+(unzip HackGen_NF_v2.9.0.zip)
+cp HackGen_NF_v2.9.0 ~/Library/Fonts
+mv HackGen_NF_v2.9.0 HackGen_NF
 fc-chache -vf
 ```
 
 ```Linux
-unzip HackGen_NF_v-.-.-.zip
-cp HackGen_NF_v-.-.- ~/.local/share/fonts
-mv HackGen_NF_v-.-.- HackGen_NF
+curl -OL https://github.com/yuru7/HackGen/releases/download/v2.9.0/HackGen_NF_v2.9.0.zip
+unzip HackGen_NF_v2.9.0.zip
+cp HackGen_NF_v2.9.0 ~/.local/share/fonts
+mv HackGen_NF_v2.9.0 HackGen_NF
 fc-cache -vf
 ```
 ## The ones we use
@@ -64,7 +66,9 @@ fc-cache -vf
 [vijm-indent-guides](https://github.com/preservim/vim-indent-guides)  
 [ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim)  
 [neomake](https://github.com/neomake/neomake)  
-
+[vim-airline]
+[vim-airline-themes]
+[]
 
 
 ### fish
