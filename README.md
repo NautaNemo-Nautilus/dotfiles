@@ -20,7 +20,7 @@ cd dotfiles
 ./install.sh
 ```
 
-## Font install
+## Ricty Font install
 ### Mac
 ```OS X
 git clone https://github.com/mzyy94/RictyDiminished-for-Powerline
@@ -29,8 +29,25 @@ cp RictyDiminished-for-Powerline/powerline-fontpatched ~/Library/Fonts
   
 ### Linux
 ```Linux
-cd /.local/share/fonts
+cd ~/.local/share/fonts
 git clone https://github.com/mzyy94/RictyDiminished-for-Powerline
+```
+
+## HackGen NF install
+Download [HackGen Release](https://github.com/yuru7/HackGen/releases)
+
+```OS X
+(unzip HackGen_NF_v-.-.-.zip)
+cp HackGen_NF_v-.-.- ~/Library/Fonts
+mv HackGen_NF_v-.-.- HackGen_NF
+fc-chache -vf
+```
+
+```Linux
+unzip HackGen_NF_v-.-.-.zip
+cp HackGen_NF_v-.-.- ~/.local/share/fonts
+mv HackGen_NF_v-.-.- HackGen_NF
+fc-cache -vf
 ```
 ## The ones we use
 ### font

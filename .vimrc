@@ -116,5 +116,7 @@ let g:indent_guides_enable_on_vim_startup = 1
 " normal mode (after 500ms; no delay when writing).
 call neomake#configure#automake('nrwi',500)
 
-
-
+"## set up airline
+let g:airline_theme = 'base16'
+let g:airline#extensions#tabline#enabled = 1
+let g:airline_powerline_fonts = 1

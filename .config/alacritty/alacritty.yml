@@ -906,9 +906,10 @@ window:
   title: Alacritty
 
 font:
+  #normal:
+  #  family: Ricty Diminished for Powerline
   normal:
-    family: Ricty Diminished for Powerline
-   # family: Ricty for Powerline
+    family: HackGen Console NF
   size: 16
 
 import:
