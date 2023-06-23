@@ -26,16 +26,16 @@ Download [HackGen Release](https://github.com/yuru7/HackGen/releases)
 ```OS X
 curl -OL https://github.com/yuru7/HackGen/releases/download/v2.9.0/HackGen_NF_v2.9.0.zip
 (unzip HackGen_NF_v2.9.0.zip)
-cp HackGen_NF_v2.9.0 ~/Library/Fonts
 mv HackGen_NF_v2.9.0 HackGen_NF
+cp HackGen_NF ~/Library/Fonts
 fc-chache -vf
 ```
 
 ```Linux
 curl -OL https://github.com/yuru7/HackGen/releases/download/v2.9.0/HackGen_NF_v2.9.0.zip
 unzip HackGen_NF_v2.9.0.zip
-cp HackGen_NF_v2.9.0 ~/.local/share/fonts
 mv HackGen_NF_v2.9.0 HackGen_NF
+cp HackGen_NF ~/.local/share/fonts
 fc-cache -vf
 ```
 
