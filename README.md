@@ -1,4 +1,8 @@
 # README
+## Required(Linux)
+* curl
+* unzip
+* fc-cache
 ## Object
 
 * zsh
