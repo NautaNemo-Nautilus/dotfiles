@@ -21,6 +21,7 @@ cd dotfiles
 ```
 2. Install
 ```
+chmod u+x install.sh
 ./install.sh
 ```
 
@@ -43,6 +44,11 @@ cp HackGen_NF ~/.local/share/fonts
 fc-cache -vf
 ```
 
+Script Install
+```
+chmod u+x font_install.sh
+./font_install.sh
+```
 
 ## The ones we use
 ### font
